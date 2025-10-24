@@ -26,7 +26,7 @@ Developed by: Khamalraaj S
 RegisterNumber:  212224230122
 */
 ```
-```py
+```
 import pandas as pd
 data = pd.read_csv("Employee (1).csv")
 data.head()
